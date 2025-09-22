@@ -1,0 +1,43 @@
+2025-08-18 17:44:43.824 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@348d18a3: 95 ms
+2025-08-18 17:44:43.836 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7f8633ae: 2 ms
+2025-08-18 17:44:43.848 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@24361cfc: 12 ms
+2025-08-18 17:44:43.862 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@10ee04df: 14 ms
+2025-08-18 17:44:43.871 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@26722665: 9 ms
+2025-08-18 17:44:43.874 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7d0614f: 0 ms
+2025-08-18 18:00:52.981 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\crossbrowser.xml
+
+2025-08-18 18:00:55.233 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2025-08-18 18:00:55.707 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-08-18 18:00:56.129 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-08-18 18:00:56.135 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-08-18 18:00:59.704 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected mesaage..
+2025-08-18 18:00:59.752 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-08-18 18:01:44.734 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2025-08-18 18:01:44.869 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-08-18 18:01:45.243 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-08-18 18:01:45.243 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-08-18 18:01:48.226 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected mesaage..
+2025-08-18 18:01:48.263 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-08-18 18:05:11.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.567 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-08-18 18:05:11.570 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.571 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-18 18:05:11.571 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.572 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-18 18:05:11.572 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.572 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-18 18:05:11.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-08-18 18:05:11.600 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2025-08-18 18:05:11.602 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.603 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-08-18 18:05:11.604 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.604 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-18 18:05:11.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-18 18:05:11.608 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.608 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-18 18:05:11.608 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.608 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-18 18:05:11.610 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.610 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.

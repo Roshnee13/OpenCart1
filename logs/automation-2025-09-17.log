@@ -1,0 +1,54 @@
+2025-09-16 15:58:31.867 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-09-16 15:58:31.893 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-09-16 15:58:42.353 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2025-09-16 18:11:22.756 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\grid-docker.xml
+
+2025-09-16 18:22:57.916 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\grid-docker.xml
+
+2025-09-16 18:28:34.981 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\grid-docker.xml
+
+2025-09-16 18:34:14.219 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\grid-docker.xml
+
+2025-09-16 18:39:45.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\grid-docker.xml
+
+2025-09-16 18:39:49.985 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2025-09-16 18:39:50.376 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-09-16 18:39:51.350 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-09-16 18:39:51.355 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-09-16 18:39:54.201 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected mesaage..
+2025-09-16 18:39:54.284 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-09-16 18:39:57.269 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest *****
+2025-09-16 18:41:27.882 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\grid-docker.xml
+
+2025-09-16 18:41:32.266 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2025-09-16 18:41:32.524 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-09-16 18:41:33.623 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-09-16 18:41:33.627 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-09-16 18:41:36.153 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected mesaage..
+2025-09-16 18:41:36.228 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-09-16 18:41:39.996 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest *****
+2025-09-16 18:42:03.852 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2025-09-16 18:42:04.131 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-09-16 18:42:05.073 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-09-16 18:42:05.076 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-09-16 18:42:07.117 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected mesaage..
+2025-09-16 18:42:07.212 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-09-16 18:42:19.607 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest *****
+2025-09-17 16:43:57.443 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+2025-09-17 16:43:57.729 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+2025-09-17 16:43:58.702 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+2025-09-17 16:43:58.705 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-09-17 16:44:00.924 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2025-09-17 16:44:00.997 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+2025-09-17 16:44:00.997 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-09-17 16:44:03.968 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+2025-09-17 16:47:46.091 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+2025-09-17 16:47:46.259 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+2025-09-17 16:47:47.083 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+2025-09-17 16:47:47.088 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...

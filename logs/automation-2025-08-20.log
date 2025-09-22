@@ -1,0 +1,51 @@
+2025-08-18 18:05:11.611 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.616 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-18 18:05:11.618 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-08-18 18:05:11.622 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.623 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-18 18:05:11.624 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-18 18:05:11.624 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-18 18:05:11.635 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\AppData\Local\Temp\testng-eclipse--846872822\testng-customsuite.xml
+
+2025-08-18 18:05:11.659 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-08-18 18:05:11.860 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2b62442c: 69 ms
+2025-08-18 18:05:11.877 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@62dae245: 17 ms
+2025-08-18 18:05:11.890 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2f7a7219: 13 ms
+2025-08-18 18:05:11.900 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@549621f3: 9 ms
+2025-08-18 18:05:11.909 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6fa590ba: 8 ms
+2025-08-18 18:05:11.910 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6e9319f: 0 ms
+2025-08-18 18:07:00.328 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\crossbrowser.xml
+
+2025-08-18 18:07:02.495 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2025-08-18 18:07:02.995 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-08-18 18:07:03.348 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-08-18 18:07:03.351 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-08-18 18:07:05.310 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2025-08-18 18:07:05.518 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-08-18 18:07:05.888 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-08-18 18:07:05.889 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-08-18 18:07:06.540 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected mesaage..
+2025-08-18 18:07:06.590 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-08-18 18:07:08.639 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected mesaage..
+2025-08-18 18:07:08.661 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-08-19 16:17:48.708 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\master.xml
+
+2025-08-19 16:21:37.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\master.xml
+
+2025-08-19 16:23:07.750 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\master.xml
+
+2025-08-19 16:23:10.274 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2025-08-19 16:23:10.745 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-08-19 16:23:11.226 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-08-19 16:23:11.228 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-08-19 16:23:14.751 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected mesaage..
+2025-08-19 16:23:14.807 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-08-20 16:28:45.937 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Subodh\eclipse-workspace\SeleniumWorkspace\OpenCart1\master.xml
+
